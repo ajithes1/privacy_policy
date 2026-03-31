@@ -1,0 +1,81 @@
+# Privacy Policy for Wealthora AI
+
+**Effective Date:** 31-03-2026
+
+Wealthora AI ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how your information is handled when you use our mobile application.
+
+---
+
+## 📱 Overview
+
+Wealthora AI is a **fully offline personal finance application** designed to help users track expenses, manage income, and monitor financial activity.
+
+We prioritize **user privacy and data security**. The app is built to function **without collecting or transmitting personal data**.
+
+---
+
+## 🔒 Data Collection
+
+**We do NOT collect, store, or share any personal data.**
+
+* No account registration required
+* No personal information is collected
+* No financial data is sent to any server
+* No tracking or analytics tools are used
+
+All data entered in the app (such as expenses, income, categories, and notes) is stored **locally on your device only**.
+
+---
+
+## 💾 Data Storage
+
+All your data is:
+
+* Stored locally on your device
+* Not accessible by us or any third party
+* Fully under your control
+
+If you uninstall the app, your data may be permanently deleted unless backed up by your device.
+
+---
+
+## 🌐 Internet Usage
+
+Wealthora AI works completely offline and does not require an internet connection.
+
+The app does not transmit any data over the internet.
+
+---
+
+## 🔐 Data Security
+
+We take reasonable measures to ensure your data is secure on your device. However, since data is stored locally, users are responsible for:
+
+* Securing their device
+* Using device-level protections (PIN, biometrics, etc.)
+
+---
+
+## 👶 Children’s Privacy
+
+Wealthora AI does not knowingly collect any data from children under the age of 13.
+
+---
+
+## 🔄 Changes to This Policy
+
+We may update this Privacy Policy in the future. Any changes will be reflected on this page with an updated effective date.
+
+---
+
+## 📩 Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
+
+**Email:** [[ajithes1@gmail.com](mailto:ajithes1@gmail.com)]
+
+---
+
+## ✅ Consent
+
+By using Wealthora AI, you agree to this Privacy Policy.
